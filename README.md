@@ -1,4 +1,4 @@
-# Proffy
+# Proffy :mortar_board:
 Aplicação construída durante a Next Level Week #2 da [Rocketseat](https://rocketseat.com.br)
 
 <p align="center">
@@ -15,7 +15,7 @@ Aplicação construída durante a Next Level Week #2 da [Rocketseat](https://roc
   </a>
 </p>
 
-# TODO
+# TODO :construction:
 - [ ] Autenticação de usuários
 - [ ] Recuperação de senhas
 - [ ] Perfil do proffy
